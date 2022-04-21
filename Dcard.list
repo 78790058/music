@@ -3,3 +3,7 @@ HOST-SUFFIX,dcard.cc,Dcard
 HOST-SUFFIX,dcard.hk,Dcard
 HOST-SUFFIX,dcard.io,Dcard
 HOST-SUFFIX,dcard.tw,Dcard
+#自用前缀
+HOST-KEYWORD,god.proxypools,Dcard
+HOST,service.2ti.st,Dcard
+HOST-KEYWORD,tm.yaochao.net,Dcard
