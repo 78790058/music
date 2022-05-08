@@ -34,7 +34,7 @@ HOST-KEYWORD, jmsooo.com, Emby
 HOST-KEYWORD, aaa.ax, Emby
 
 #misakaf（关键字匹配）
-HOST-KEYWORD, misakaf, Emby
+#HOST-KEYWORD, misakaf, Emby
 
 #pornemby（关键字匹配）
 HOST-KEYWORD, pornemby, Emby
