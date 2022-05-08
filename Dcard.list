@@ -36,5 +36,5 @@ HOST-KEYWORD, aaa.ax, Emby
 #misakaf（关键字匹配）
 HOST-KEYWORD, misakaf, Emby
 
-#dcard
-host-suffix, dcard.tw, 🎳 谷歌服务
+#pornemby（关键字匹配）
+HOST-KEYWORD, pornemby, Emby
