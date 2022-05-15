@@ -37,4 +37,4 @@ HOST-KEYWORD, aaa.ax, Emby
 HOST-KEYWORD, misakaf, Emby
 
 #pornemby（关键字匹配）
-#HOST-KEYWORD, pornemby, Emby
+HOST-KEYWORD, pornemby, Emby
